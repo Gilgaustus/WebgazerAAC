@@ -1,0 +1,11 @@
+{
+  "name": "webgazeraac",
+  "version": "1.0.0",
+  "description": "Combining AstericsAAC and Webgazer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gilberto Aponte Prats",
+  "license": "ISC"
+}
